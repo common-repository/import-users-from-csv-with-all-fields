@@ -1,0 +1,11 @@
+user_login,user_email,user_pass,first_name,last_name,display_name,role,custom_usermeta_1,custom_usermeta_2,user_url,description,billing_company,billing_address_1,billing_address_2,billing_city,billing_postcode,billing_phone,billing_state,billing_country
+romittest,romit@gmail.com,123456,Romit,Test,Romit test,administrator,Test1,Test2,www.abc.com,This is test one.,Rcode,moti banglow,moti bag,dewas,45552,9999999999,AP,IN
+hemutest,hemu@gmail.com,123456,Hemu,Test,Hemu test,contributor,Test1,Test2,www.bca.com,This is test two.,Pcode,moti bag,red fla,indore,59888,8888888888,MP,IN
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
